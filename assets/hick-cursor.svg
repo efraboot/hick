@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 96 96"><g transform="translate(48 48) rotate(135) scale(.9) translate(-32 -40)">
+  <path d="M11 3Q10 1 10 5L12 19 3 12Q1 10 3 15L31 76Q32 79 33 76L61 15Q63 10 61 12L52 19 54 5Q54 1 52 3L45 13Q32 7 19 13Z" fill="#e7e5cf" stroke="#77786c" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="M11 5 15 23 21 20ZM53 5 49 23 43 20ZM4 14 13 24 16 22ZM60 14 51 24 48 22Z" fill="#fbfae9"/>
+  <path d="M11 5 15 23 18 22ZM53 5 49 23 46 22Z" fill="#c9c9b7"/>
+  <path d="M16 27Q11 33 17 34L25 36Q29 39 27 44Q27 39 22 40Q16 40 14 34ZM48 27Q53 33 47 34L39 36Q35 39 37 44Q37 39 42 40Q48 40 50 34Z" fill="#aaac9d"/>
+  <path d="M15 34Q24 34 27 39Q17 42 15 34ZM49 34Q40 34 37 39Q47 42 49 34Z" fill="#202625"/>
+  <path d="M23 29Q32 35 28 38M41 29Q32 35 36 38" fill="none" stroke="#d1d1bd" stroke-width=".9"/>
+  <path d="M27 47Q26 51 32 50Q38 51 37 47Q38 53 33 54L33 58Q34 60 42 62L39 64 32 61 25 64 22 62Q30 60 31 58L31 54Q26 53 27 47Z" fill="#a9ab9a"/>
+  <path d="M19 48 21 57 23 51 22 62ZM45 48 43 57 41 51 42 62ZM25 64 32 75 39 64 32 62Z" fill="#f5f4e3"/>
+</g></svg>
